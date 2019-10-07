@@ -1,1 +1,4 @@
 This is my first git file, and i'm practicing for DevOps..!
+
+This is second line i'm adding to git repository file.
+Doing hands on practice in git version control tool.
