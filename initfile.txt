@@ -1,4 +1,9 @@
 This is my first git file, and i'm practicing for DevOps..!
 This is second line i'm adding to git repository file.
 Doing hands on practice in git version control tool.
-Here i'm one more line to my git repo file.!
+Here i'm adding one more line to my git repo file.!
+The more you practice the more you become perfect.
+
+i don't wanna give up till my last breath.
+I keep working hard for my goals and sure i will be a winner.
+
